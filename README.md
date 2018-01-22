@@ -1,2 +1,1 @@
--feature-A
-- fix-B
+fix-cC
